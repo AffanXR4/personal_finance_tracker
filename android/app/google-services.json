@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976241685764",
+    "project_id": "catatan-keuangan-pribadi-9392d",
+    "storage_bucket": "catatan-keuangan-pribadi-9392d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976241685764:android:2ef073e608183765f5cc51",
+        "android_client_info": {
+          "package_name": "com.example.personal_finance_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIyPIRPTM2Twkug9-cFZdKuwo2SzwMh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
